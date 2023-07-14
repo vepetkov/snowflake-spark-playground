@@ -5,7 +5,7 @@ azure-common==1.1.23
 azure-storage-blob==2.0.1
 azure-storage-common==2.0.0
 backcall==0.1.0
-bleach==3.1.4
+bleach==3.3.0
 boto3==1.9.193
 botocore==1.12.193
 certifi==2019.6.16

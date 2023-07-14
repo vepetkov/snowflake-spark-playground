@@ -47,7 +47,7 @@ ptyprocess==0.6.0
 py4j==0.10.7
 pycparser==2.19
 pycryptodomex==3.8.2
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==2.4.0
 pyOpenSSL==19.0.0
 pyrsistent==0.15.3

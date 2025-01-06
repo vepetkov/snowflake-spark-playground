@@ -17,7 +17,7 @@ defusedxml==0.6.0
 docutils==0.14
 entrypoints==0.3
 future==0.18.3
-idna==2.8
+idna==3.7
 ijson==2.4
 ipykernel==5.1.1
 ipython==8.10.0
